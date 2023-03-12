@@ -8,4 +8,4 @@ Sample R and Python script for calculating Mean, Standard Deviation, Standard Er
 4. If necessary you can save the result in excel format
 
 # Disclaimer
-This  is my first script file while learning R. So there may be boilerplate code, please bear with me as it should improve with the course of time 
+This  is my first script file while learning R. So there may be boilerplate codes 😅
